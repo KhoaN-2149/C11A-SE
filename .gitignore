@@ -9,3 +9,4 @@
 Thums.db
 *.log
 *.tmp
+/bin/
